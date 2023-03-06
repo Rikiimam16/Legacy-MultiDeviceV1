@@ -1,12 +1,3 @@
-// S C R I P T  O R I  B Y  BochilGaming🎋
-// Ditulis Ulang Oleh RULL 🎐
-// Credits, jangan dihapus atau diubah!
-
-// - - THANKS TO - -
-// • Allah SWT
-// • WH MODS DEV
-// • RULL
-// • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
 import fs from 'fs'
@@ -36,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
-global.tautanwa = 'https://wa.me/message/'
-global.sgh = 'https://github.com/khrlmstfa' //github
-global.sgc = '' //group whatsapp
+global.sig = 'https://instagram.com/rikiimam16'
+global.tautanwa = 'https://wa.me/6289512831977/'
+global.sgh = 'https://github.com/rikiimam16' //github
+global.sgc = 'https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.syt = 'https://youtube.com/channel/rikiimamuddin'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/'
-global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
+global.media = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 global.wame = 'https://wa.me/message/'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['6289512831977', 'RikiImamss꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
-global.nomorown1 = ''
-global.nomorown2 = ''
-global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
-global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
-global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
+global.nomorbot = '6283845051018' //pasang no bot lo 
+global.nomorown = '6289512831977' //pasang no own lo
+global.nomorown1 = '6289512831977'
+global.nomorown2 = '6283845051018'
+global.nomorwa = '089512831977'
+global.nameown = 'RikiImamss'
+global.gcname = 'Riks Botz'
+global.author = 'Dibuat Oleh RikiImamss'
+global.namebot = 'RiksBotz'
+global.packname2 = 'Riksss꩜'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ API AI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺ 
 /*Lolhuman*/
@@ -89,24 +80,24 @@ HIRO
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= ' ꩜'
-global.nameown2 = '  ꩜'
+global.nameown1= 'RikiImamss ꩜'
+global.nameown2 = 'Riksss ꩜'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
-global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
+global.wm = '©Rikss'
+global.wm2 = 'Eitsss'
 global.packname = wm
 global.watermark = wm
 global.titlebot = namebot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '/𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.stickauth = `BOT By ©𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗`
+global.stickpack = '/RiksBotz'
+global.stickauth = `BOT By ©RikiImamss`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -118,22 +109,22 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *𝕽𝖚𝖑𝖑* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
-global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
+global.botintro = 'Hallo, Saya RiksBotz akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *RikiImamss* Saya di rilis pada tanggal\n🗓 ️_6/03/2023_'
+global.intro = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.Linkgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
+global.Linkgc = 'https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh'
 global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '' //pasang no lo sinih buat donasi 
-global.povo = '-' 
-global.pgopay = '-'
+global.pdana = '089512831977' //pasang no lo sinih buat donasi 
+global.povo = '089512831977' 
+global.pgopay = '089512831977'
 global.plinkaja = '-' //link aja
-global.ppulsa = ''
-global.ppulsa2 = ''
+global.ppulsa = '089512831977'
+global.ppulsa2 = '089512831977'
 global.psaweria = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -305,30 +296,30 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
+global.premnsfw = false // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/2c92507dbadf5a05c41c6.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/90a931648de597820bc08.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/90a931648de597820bc08.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/896867949807ddbecbe81.jpg' 
-global.imagebot = 'https://telegra.ph/file/2c92507dbadf5a05c41c6.jpg'
+global.thumb = 'https://telegra.ph/file/90a931648de597820bc08.jpg' 
+global.imagebot = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.thumbs = ['https://telegra.ph/file/08ae4464dfd3cc051a230.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/ba68723bf59ecbd2fd407.jpg',
-  'https://telegra.ph/file/b3dbb0162205bc417d05c.jpg',
-  'https://telegra.ph/file/27accc6de818f8bd2eda8.jpg',
-  'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg',
-  'https://telegra.ph/file/896867949807ddbecbe81.jpg',
-  'https://telegra.ph/file/a89f45928da44c2b2d8bd.jpg',
-  'https://telegra.ph/file/f84cc7287397c283c0ab4.jpg',
-  'https://telegra.ph/file/b17fb6ab139767856cf06.jpg',
-  'https://telegra.ph/file/2c92507dbadf5a05c41c6.jpg',
-  'https://telegra.ph/file/35e1b80cf780eab2e1151.jpg'
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg',
+  'https://telegra.ph/file/90a931648de597820bc08.jpg'
 ]
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -363,12 +354,12 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 global.logo = 'https://telegra.ph/file/27accc6de818f8bd2eda8.jpg'
 
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/khoirul36_"
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62xxxx' //nowa mu
+global.dtu = 'Riksss'
+global.urlnya = "https://www.instagram.com/rikiimam16"
+global.dtc = 'Rikszzz'
+global.phn = '6289512831977' //nowa mu
 
-global.thumbdoc = 'https://telegra.ph/file/896867949807ddbecbe81.jpg'
+global.thumbdoc = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
